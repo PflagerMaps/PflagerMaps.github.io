@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "WHoDataLab4",
+"name": "RoundTwoBusterBrown",
 "features": [
 { "type": "Feature", "properties": { "field_1": "Location", "field_2": "Lat", "field_3": "Long", "field_4": "1", "field_5": "2", "field_6": "3", "field_7": "4", "field_8": "5", "field_9": "6", "field_10": "7", "field_11": "8", "field_12": "9", "field_13": "10", "field_14": "11", "field_15": "12", "field_16": "13", "field_17": "14", "field_18": "15", "field_19": "16" }, "geometry": null },
 { "type": "Feature", "properties": { "field_1": "Australia", "field_2": "-25.2744", "field_3": "133.7751", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "3", "field_9": "4", "field_10": "4", "field_11": "5", "field_12": "7", "field_13": "9", "field_14": "9", "field_15": "12", "field_16": "12", "field_17": "12", "field_18": "12", "field_19": "13" }, "geometry": null },
@@ -27,7 +27,6 @@
 { "type": "Feature", "properties": { "field_1": "United Arab Emirates", "field_2": "23.4241", "field_3": "53.8478", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "4", "field_13": "4", "field_14": "4", "field_15": "4", "field_16": "5", "field_17": "5", "field_18": "5", "field_19": "5" }, "geometry": null },
 { "type": "Feature", "properties": { "field_1": "United States", "field_2": "37.0902", "field_3": "95.7129", "field_4": "0", "field_5": "0", "field_6": "1", "field_7": "1", "field_8": "2", "field_9": "2", "field_10": "5", "field_11": "5", "field_12": "5", "field_13": "6", "field_14": "6", "field_15": "7", "field_16": "8", "field_17": "11", "field_18": "11", "field_19": "11" }, "geometry": null },
 { "type": "Feature", "properties": { "field_1": "UK", "field_2": "55.3781", "field_3": "3.436", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "0", "field_14": "0", "field_15": "2", "field_16": "2", "field_17": "2", "field_18": "2", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Vietnam", "field_2": "14.0583", "field_3": "108.2772", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "2", "field_8": "2", "field_9": "2", "field_10": "2", "field_11": "2", "field_12": "2", "field_13": "5", "field_14": "5", "field_15": "6", "field_16": "7", "field_17": "8", "field_18": "9", "field_19": "10" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Total:", "field_2": "", "field_3": "", "field_4": "282", "field_5": "314", "field_6": "581", "field_7": "846", "field_8": "1320", "field_9": "2014", "field_10": "2798", "field_11": "4578", "field_12": "6065", "field_13": "9826", "field_14": "9826", "field_15": "11953", "field_16": "14557", "field_17": "17391", "field_18": "20630", "field_19": "24553" }, "geometry": null }
+{ "type": "Feature", "properties": { "field_1": "Vietnam", "field_2": "14.0583", "field_3": "108.2772", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "2", "field_8": "2", "field_9": "2", "field_10": "2", "field_11": "2", "field_12": "2", "field_13": "5", "field_14": "5", "field_15": "6", "field_16": "7", "field_17": "8", "field_18": "9", "field_19": "10" }, "geometry": null }
 ]
 }
