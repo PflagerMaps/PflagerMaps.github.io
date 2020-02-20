@@ -1,32 +1,455 @@
 {
-"type": "FeatureCollection",
-"name": "RoundTwoBusterBrown",
-"features": [
-{ "type": "Feature", "properties": { "field_1": "Location", "field_2": "Lat", "field_3": "Long", "field_4": "1", "field_5": "2", "field_6": "3", "field_7": "4", "field_8": "5", "field_9": "6", "field_10": "7", "field_11": "8", "field_12": "9", "field_13": "10", "field_14": "11", "field_15": "12", "field_16": "13", "field_17": "14", "field_18": "15", "field_19": "16" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Australia", "field_2": "-25.2744", "field_3": "133.7751", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "3", "field_9": "4", "field_10": "4", "field_11": "5", "field_12": "7", "field_13": "9", "field_14": "9", "field_15": "12", "field_16": "12", "field_17": "12", "field_18": "12", "field_19": "13" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Belgium", "field_2": "50.5039", "field_3": "4.4699", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "0", "field_14": "0", "field_15": "0", "field_16": "0", "field_17": "0", "field_18": "0", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Cambodia", "field_2": "12.5657", "field_3": "104.991", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "1", "field_13": "1", "field_14": "1", "field_15": "1", "field_16": "1", "field_17": "1", "field_18": "1", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Canada", "field_2": "56.1304", "field_3": "-106.3468", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "1", "field_11": "2", "field_12": "3", "field_13": "3", "field_14": "3", "field_15": "4", "field_16": "4", "field_17": "4", "field_18": "4", "field_19": "5" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "China", "field_2": "35.8617", "field_3": "104.1954", "field_4": "278", "field_5": "310", "field_6": "574", "field_7": "835", "field_8": "1297", "field_9": "1985", "field_10": "2761", "field_11": "4537", "field_12": "5997", "field_13": "9720", "field_14": "9720", "field_15": "11821", "field_16": "14411", "field_17": "17238", "field_18": "20471", "field_19": "24363" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Finland", "field_2": "61.9241", "field_3": "25.7482", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "1", "field_14": "1", "field_15": "1", "field_16": "1", "field_17": "1", "field_18": "1", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "France", "field_2": "46.2276", "field_3": "2.2137", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "3", "field_9": "0", "field_10": "3", "field_11": "3", "field_12": "4", "field_13": "6", "field_14": "6", "field_15": "6", "field_16": "6", "field_17": "6", "field_18": "6", "field_19": "6" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Germany", "field_2": "51.1657", "field_3": "10.4515", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "1", "field_12": "4", "field_13": "5", "field_14": "5", "field_15": "7", "field_16": "8", "field_17": "10", "field_18": "12", "field_19": "12" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "India", "field_2": "20.5937", "field_3": "78.9629", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "1", "field_14": "1", "field_15": "1", "field_16": "2", "field_17": "3", "field_18": "3", "field_19": "3" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Italy", "field_2": "41.8719", "field_3": "12.5674", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "2", "field_14": "2", "field_15": "2", "field_16": "2", "field_17": "2", "field_18": "2", "field_19": "2" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Japan", "field_2": "36.2048", "field_3": "138.2529", "field_4": "1", "field_5": "1", "field_6": "1", "field_7": "1", "field_8": "3", "field_9": "3", "field_10": "4", "field_11": "6", "field_12": "7", "field_13": "14", "field_14": "14", "field_15": "17", "field_16": "20", "field_17": "20", "field_18": "20", "field_19": "33" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Malaysia", "field_2": "4.2105", "field_3": "101.9758", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "3", "field_10": "4", "field_11": "4", "field_12": "4", "field_13": "8", "field_14": "8", "field_15": "8", "field_16": "8", "field_17": "8", "field_18": "10", "field_19": "10" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Nepal", "field_2": "28.3949", "field_3": "84.124", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "1", "field_9": "0", "field_10": "1", "field_11": "1", "field_12": "1", "field_13": "1", "field_14": "1", "field_15": "1", "field_16": "1", "field_17": "1", "field_18": "1", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Philippines", "field_2": "12.8797", "field_3": "121.774", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "1", "field_14": "1", "field_15": "1", "field_16": "2", "field_17": "2", "field_18": "2", "field_19": "3" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Republic of Korea", "field_2": "35.9078", "field_3": "127.7669", "field_4": "1", "field_5": "1", "field_6": "1", "field_7": "2", "field_8": "2", "field_9": "2", "field_10": "4", "field_11": "4", "field_12": "4", "field_13": "11", "field_14": "11", "field_15": "12", "field_16": "15", "field_17": "15", "field_18": "16", "field_19": "18" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Russia", "field_2": "61.524", "field_3": "105.3188", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "0", "field_14": "0", "field_15": "2", "field_16": "2", "field_17": "2", "field_18": "2", "field_19": "2" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Singapore", "field_2": "1.3521", "field_3": "103.8198", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "1", "field_8": "3", "field_9": "4", "field_10": "4", "field_11": "7", "field_12": "7", "field_13": "13", "field_14": "13", "field_15": "16", "field_16": "18", "field_17": "18", "field_18": "18", "field_19": "24" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Spain", "field_2": "40.4637", "field_3": "3.7492", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "0", "field_14": "0", "field_15": "1", "field_16": "1", "field_17": "1", "field_18": "1", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Sri Lanka", "field_2": "7.8731", "field_3": "80.7718", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "1", "field_12": "1", "field_13": "1", "field_14": "1", "field_15": "1", "field_16": "1", "field_17": "1", "field_18": "1", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Sweden", "field_2": "60.1282", "field_3": "18.6435", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "0", "field_14": "0", "field_15": "1", "field_16": "1", "field_17": "1", "field_18": "1", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Thailand", "field_2": "15.87", "field_3": "100.9925", "field_4": "2", "field_5": "2", "field_6": "4", "field_7": "4", "field_8": "4", "field_9": "5", "field_10": "5", "field_11": "0", "field_12": "14", "field_13": "14", "field_14": "14", "field_15": "19", "field_16": "19", "field_17": "19", "field_18": "19", "field_19": "25" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "United Arab Emirates", "field_2": "23.4241", "field_3": "53.8478", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "4", "field_13": "4", "field_14": "4", "field_15": "4", "field_16": "5", "field_17": "5", "field_18": "5", "field_19": "5" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "United States", "field_2": "37.0902", "field_3": "95.7129", "field_4": "0", "field_5": "0", "field_6": "1", "field_7": "1", "field_8": "2", "field_9": "2", "field_10": "5", "field_11": "5", "field_12": "5", "field_13": "6", "field_14": "6", "field_15": "7", "field_16": "8", "field_17": "11", "field_18": "11", "field_19": "11" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "UK", "field_2": "55.3781", "field_3": "3.436", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "0", "field_8": "0", "field_9": "0", "field_10": "0", "field_11": "0", "field_12": "0", "field_13": "0", "field_14": "0", "field_15": "2", "field_16": "2", "field_17": "2", "field_18": "2", "field_19": "1" }, "geometry": null },
-{ "type": "Feature", "properties": { "field_1": "Vietnam", "field_2": "14.0583", "field_3": "108.2772", "field_4": "0", "field_5": "0", "field_6": "0", "field_7": "2", "field_8": "2", "field_9": "2", "field_10": "2", "field_11": "2", "field_12": "2", "field_13": "5", "field_14": "5", "field_15": "6", "field_16": "7", "field_17": "8", "field_18": "9", "field_19": "10" }, "geometry": null }
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.7751,-25.2744 ]
+    },
+    "properties": {
+    "Location":"Australia",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":3,
+    "f":4,
+    "g":4,
+    "h":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4699,50.5039 ]
+    },
+    "properties": {
+    "Location":"Belgium",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.991,12.5657 ]
+    },
+    "properties": {
+    "Location":"Cambodia",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3468,56.1304 ]
+    },
+    "properties": {
+    "Location":"Canada",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":1,
+    "h":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.1954,35.8617 ]
+    },
+    "properties": {
+    "Location":"China",
+    "a":278,
+    "b":310,
+    "c":574,
+    "d":835,
+    "e":1297,
+    "f":1985,
+    "g":2761,
+    "h":4537
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.7482,61.9241 ]
+    },
+    "properties": {
+    "Location":"Finland",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2137,46.2276 ]
+    },
+    "properties": {
+    "Location":"France",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":3,
+    "f":0,
+    "g":3,
+    "h":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4515,51.1657 ]
+    },
+    "properties": {
+    "Location":"Germany",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.9629,20.5937 ]
+    },
+    "properties": {
+    "Location":"India",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.5674,41.8719 ]
+    },
+    "properties": {
+    "Location":"Italy",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.2529,36.2048 ]
+    },
+    "properties": {
+    "Location":"Japan",
+    "a":1,
+    "b":1,
+    "c":1,
+    "d":1,
+    "e":3,
+    "f":3,
+    "g":4,
+    "h":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.9758,4.2105 ]
+    },
+    "properties": {
+    "Location":"Malaysia",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":3,
+    "g":4,
+    "h":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124,28.3949 ]
+    },
+    "properties": {
+    "Location":"Nepal",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":1,
+    "f":0,
+    "g":1,
+    "h":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.774,12.8797 ]
+    },
+    "properties": {
+    "Location":"Philippines",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.7669,35.9078 ]
+    },
+    "properties": {
+    "Location":"Republic of Korea",
+    "a":1,
+    "b":1,
+    "c":1,
+    "d":2,
+    "e":2,
+    "f":2,
+    "g":4,
+    "h":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.3188,61.524 ]
+    },
+    "properties": {
+    "Location":"Russia",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8198,1.3521 ]
+    },
+    "properties": {
+    "Location":"Singapore",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":1,
+    "e":3,
+    "f":4,
+    "g":4,
+    "h":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7492,40.4637 ]
+    },
+    "properties": {
+    "Location":"Spain",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.7718,7.8731 ]
+    },
+    "properties": {
+    "Location":"Sri Lanka",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.6435,60.1282 ]
+    },
+    "properties": {
+    "Location":"Sweden",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.9925,15.87 ]
+    },
+    "properties": {
+    "Location":"Thailand",
+    "a":2,
+    "b":2,
+    "c":4,
+    "d":4,
+    "e":4,
+    "f":5,
+    "g":5,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.8478,23.4241 ]
+    },
+    "properties": {
+    "Location":"United Arab Emirates",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.7129,37.0902 ]
+    },
+    "properties": {
+    "Location":"United States",
+    "a":0,
+    "b":0,
+    "c":1,
+    "d":1,
+    "e":2,
+    "f":2,
+    "g":5,
+    "h":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.436,55.3781 ]
+    },
+    "properties": {
+    "Location":"UK",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":0,
+    "e":0,
+    "f":0,
+    "g":0,
+    "h":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.2772,14.0583 ]
+    },
+    "properties": {
+    "Location":"Vietnam",
+    "a":0,
+    "b":0,
+    "c":0,
+    "d":2,
+    "e":2,
+    "f":2,
+    "g":2,
+    "h":2
+    }
+  }
 ]
 }
