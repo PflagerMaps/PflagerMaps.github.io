@@ -43,7 +43,7 @@
           }).addTo(map);
 
           //change the file name to yours
-            $.getJSON("https://rshepard2.github.io/cases2.geojson")  // The getJSON() method is used to get JSON data
+            $.getJSON("PflagerMaps.github.io/Lab4/.geojson")  // The getJSON() method is used to get JSON data
             .done(function(data) {
                 var info = processData(data);
                 createPropSymbols(info.timestamps, data);
