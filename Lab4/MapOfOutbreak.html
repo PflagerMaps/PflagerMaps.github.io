@@ -32,8 +32,8 @@
 
       <script>
           var map = L.map('map', {
-                center: [38.1625228, -96.9633171],
-                zoom: 4
+                center: [39.9042, 116.9633171],
+                zoom: 3
             });
 
           L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
@@ -43,7 +43,7 @@
           }).addTo(map);
 
           //change the file name to yours
-            $.getJSON("PflagerMaps.github.io/Lab4/.geojson")  // The getJSON() method is used to get JSON data
+            $.getJSON("http://PflagerMaps.github.io/Lab4/data.geojson")  // The getJSON() method is used to get JSON data
             .done(function(data) {
                 var info = processData(data);
                 createPropSymbols(info.timestamps, data);
@@ -64,10 +64,10 @@
 
                   // At each row, go through the columns/attributes to get the values
                   for (var attribute in properties) {
-                      if ( attribute != 'id' &&
-                           attribute != 'name' &&
-                           attribute != 'latitude' &&
-                           attribute != 'longitude' )   // != means NOT EQUAL TO
+                      if ( attribute != 'Location' &&
+                           attribute != 'Lat' &&
+                           attribute != 'Long' )
+                              // != means NOT EQUAL TO
                                                   // These three columns are NOT recorded
                                                   // Modify this part when mapping your own data
                       {
@@ -103,10 +103,10 @@
                   // To alter this, the pointToLayer function needs to be used
                   pointToLayer: function(feature, latlng) {
                       return L.circleMarker(latlng, { // we use circle marker for the points
-                          fillColor: "#501e65",  // fill color of the circles
-                          color: '#501e65',      // border color of the circles
-                          weight: 2,             // circle line weight in pixels
-                          fillOpacity: 0.5       // fill opacity (0-1)
+                          fillColor: "orange",  // fill color of the circles
+                          color: 'orange',      // border color of the circles
+                          weight: 4,          // circle line weight in pixels
+                          fillOpacity: 0.7       // fill opacity (0-1)
                       }).on({
                          mouseover: function(e) {
                             this.openPopup();
@@ -201,3 +201,4 @@ function createSliderUI(timestamps) {
 
   </body>
 </html>
+
