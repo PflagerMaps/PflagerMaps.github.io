@@ -110,11 +110,11 @@
                       }).on({
                          mouseover: function(e) {
                             this.openPopup();
-                            this.setStyle({fillColor: 'green'});  // fill color turns green when mouseover
+                            this.setStyle({fillColor: 'purple'});  // fill color turns green when mouseover
                         },
                         mouseout: function(e) {
                             this.closePopup();
-                            this.setStyle({fillColor: '#501e65'});  // fill turns original color when mouseout
+                            this.setStyle({fillColor: 'orange'});  // fill turns original color when mouseout
                         }
                     });
                   }
@@ -125,7 +125,7 @@
             }
 
 function createSliderUI(timestamps) {
-  var sliderControl = L.control({ position: 'bottomleft'} ); // position of the slider
+  var sliderControl = L.control({ position: 'topright'} ); // position of the slider
                     // Another use of L.control :)
   sliderControl.onAdd = function(map) {
     //initialize a range slider with mousedown control
@@ -189,7 +189,7 @@ function createSliderUI(timestamps) {
             // calculate the radius of the proportional symbols based on area
             function calcPropRadius(attributeValue) {
 
-              var scaleFactor = 0.001;   // the scale factor is used to scale the values; the units of the radius are in meters
+              var scaleFactor = 2;   // the scale factor is used to scale the values; the units of the radius are in meters
                                          // you may determine the scale factor accordingly based on the range of the values and the mapping scale
               var area = attributeValue * scaleFactor;
 
@@ -201,4 +201,3 @@ function createSliderUI(timestamps) {
 
   </body>
 </html>
-
