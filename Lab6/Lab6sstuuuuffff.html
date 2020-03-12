@@ -1,8 +1,8 @@
-<html>
+<<html>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
-  <title>Lab 6 | Morgan Ryan</title>
+  <title>Lab 6 |Kevin Pflager</title>
   <style> html, body, #viewDiv {padding: 0; margin: 0; height: 100%; width: 100%;} </style>
   <link rel="stylesheet" href="https://js.arcgis.com/4.14/esri/themes/light/main.css"/>
   <script src="https://js.arcgis.com/4.14/"></script>
@@ -58,7 +58,7 @@ const renderer = {
 
 const geojsonLayer = new GeoJSONLayer({
     url: url,
-    copyright: "Morgan Ryan",
+    copyright: "Kevin Pflager",
     renderer: renderer
      });
 
@@ -78,7 +78,7 @@ var featureLayer = new FeatureLayer({
 var view = new MapView({
   container: "viewDiv",
   map: map,
-  zoom: 17,
+  zoom: 5,
   center: [-96.68, 40.81]
     });
   const legend = new Legend({
@@ -99,15 +99,3 @@ var view = new MapView({
   <div id="viewDiv"></div>
 </body>
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
